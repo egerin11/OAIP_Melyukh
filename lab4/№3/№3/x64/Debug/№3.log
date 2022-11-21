@@ -1,0 +1,8 @@
+﻿  Header.cpp
+C:\OAIP_Melyukh\lab4\№3\№3\Header.cpp(6,41): error C2572: setConsoleColor: переопределение аргумента по умолчанию: параметр 1
+C:\OAIP_Melyukh\lab4\№3\№3\Header.h(24): message : см. объявление "setConsoleColor"
+C:\OAIP_Melyukh\lab4\№3\№3\Header.cpp(6,67): error C2572: setConsoleColor: переопределение аргумента по умолчанию: параметр 2
+C:\OAIP_Melyukh\lab4\№3\№3\Header.h(24): message : см. объявление "setConsoleColor"
+C:\OAIP_Melyukh\lab4\№3\№3\Header.cpp(33,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  №3.cpp
+  Создание кода...
